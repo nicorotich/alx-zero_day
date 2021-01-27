@@ -1,2 +1,2 @@
-#OPENING
-'Command to open a file within Emacs'
+# 0x01.Emacs
+'Emacs project'
