@@ -1,2 +1,2 @@
-#Vi Editor
-'Vi editor commands'
+VI Editor
+Drectory for the Vi project
