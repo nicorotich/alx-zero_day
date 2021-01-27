@@ -1,2 +1,2 @@
-#Git Project
-'Contains all git project files'
+Git Project
+Contains all git project files
